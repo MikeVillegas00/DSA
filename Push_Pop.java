@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class PT1 {
+public class Push_Pop {
 
     public static void main (String[] args) throws Exception {
 
